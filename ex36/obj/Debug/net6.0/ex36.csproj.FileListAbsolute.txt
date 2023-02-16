@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/hoewrk15fev/ex36/bin/Debug/net6.0/ex36
+/Users/delyashchuriumova/hoewrk15fev/ex36/bin/Debug/net6.0/ex36.deps.json
+/Users/delyashchuriumova/hoewrk15fev/ex36/bin/Debug/net6.0/ex36.runtimeconfig.json
+/Users/delyashchuriumova/hoewrk15fev/ex36/bin/Debug/net6.0/ex36.dll
+/Users/delyashchuriumova/hoewrk15fev/ex36/bin/Debug/net6.0/ex36.pdb
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.AssemblyInfo.cs
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.dll
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/refint/ex36.dll
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.pdb
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ex36.genruntimeconfig.cache
+/Users/delyashchuriumova/hoewrk15fev/ex36/obj/Debug/net6.0/ref/ex36.dll
