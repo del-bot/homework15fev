@@ -1,0 +1,15 @@
+/Users/delyashchuriumova/hoewrk15fev/ex38/bin/Debug/net6.0/ex38
+/Users/delyashchuriumova/hoewrk15fev/ex38/bin/Debug/net6.0/ex38.deps.json
+/Users/delyashchuriumova/hoewrk15fev/ex38/bin/Debug/net6.0/ex38.runtimeconfig.json
+/Users/delyashchuriumova/hoewrk15fev/ex38/bin/Debug/net6.0/ex38.dll
+/Users/delyashchuriumova/hoewrk15fev/ex38/bin/Debug/net6.0/ex38.pdb
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.csproj.AssemblyReference.cache
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.AssemblyInfoInputs.cache
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.AssemblyInfo.cs
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.csproj.CoreCompileInputs.cache
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.dll
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/refint/ex38.dll
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.pdb
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ex38.genruntimeconfig.cache
+/Users/delyashchuriumova/hoewrk15fev/ex38/obj/Debug/net6.0/ref/ex38.dll
